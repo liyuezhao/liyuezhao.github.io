@@ -6,6 +6,8 @@ Obviously, those lecture notes will contain various mistakes. I will be glad if 
 
 I will try to keep my lecture notes up to date.
 
+---
+
 ## 2019 Summer Semester
 
 ### [Algebraic Geometry](/lecture-notes/19SS/Algebraic-Geometry.pdf)
