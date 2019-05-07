@@ -1,8 +1,8 @@
 # Lecture Notes
 
-In this semester (2019 Summer), I will take notes with LaTeX​. Those noted can be downloaded here.
+In this semester (2019 Summer), I am taking some of my notes with LaTeX, which are available here.
 
-Obviously, those lecture notes will contain various mistakes. I will be glad if you find some and tell me about them.
+Obviously, those lecture notes will contain various mistakes. I will be glad if you find any and tell me about them.
 
 I will try to keep my lecture notes up to date.
 
