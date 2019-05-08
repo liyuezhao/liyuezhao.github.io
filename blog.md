@@ -4,5 +4,5 @@ Under construction. :-)
 
 ---
 
--   [Every subgroup of a finitely generated free abelian group is finitely generated](/blog/20190508.html" target="_blank)
+-   [Every subgroup of a finitely generated free abelian group is finitely generated](/blog/20190508.html)
 
