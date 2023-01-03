@@ -24,27 +24,27 @@ The room is hard to find (you need to enter from Huygens building, go upstairs a
 
 ## Schedule
 
-| Date   | Location                      | Speaker                    | Title                                                        |
-| ------ | ----------------------------- | -------------------------- | ------------------------------------------------------------ |
-| Feb 15 | Gorlaeus building DM017PC     | Jack Ekenstam              | K-theory of C*-algebras 1                                    |
-| Feb 22 | Gorlaeus building DM017PC     | Yuezhao Li                 | K-theory of C*-algebras 2                                    |
-| Mar 1  | **Gorlaeus building DM009PC** | Jack Ekenstam              | Hilbert C\*-modules 1                                        |
-| Mar 8  | Gorlaeus building DM017PC     | Jack Ekenstam, Yufan Ge    | Hilbert C\*-modules 2, Kasparov's picture of KK-theory 1     |
-| Mar 15 | ---                           | ---                        | **No talk**                                                  |
-| Mar 22 | Gorlaeus building DM017PC     | Yufan Ge                   | Kasparov's picture of KK-theory 2                            |
-| Mar 29 | **Gorlaeus building DM109**   | Yufan Ge                   | Cuntz's picture of KK-theory                                 |
-| Apr 5  | Gorlaeus building DM017PC     | Yuezhao Li                 | Examples and properties of KK-theory                         |
-| Apr 12 | Gorlaeus building DM017PC     | Bram Mesland               | The Kasparov product 1                                       |
-| Apr 19 | Gorlaeus building DM017PC     | Bram Mesland               | The Kasparov product 2                                       |
-| Apr 26 | ---                           | ---                        | **No talk**                                                  |
-| May 3  | Gorlaeus building DM017PC     | Georg Huppertz             | Extension of C\*-algebras and KK-theory 1                    |
-| May 10 | Gorlaeus building DM017PC     | Georg Huppertz, Yuezhao Li | Extension of C\*-algebras and KK-theory 2, Categorical aspect of KK-theory 1 |
-| May 17 | Gorlaeus building DM017PC     | Yuezhao Li                 | Categorical aspect of KK-theory 2                            |
-| May 24 | Gorlaeus building DM017PC     | Dimitris Gerontogiannis    | Finite summability in K-homology                             |
-| May 31 | ---                           | ---                        | **No talk** (due to [Noncommutative Geometry Along the North Sea 2022](https://www.lorentzcenter.nl/noncommutative-geometry-along-the-north-sea-2022.html)) |
-| Jun 7  | Gorlaeus building DM017PC     | Mick Gielen                | E-theory                                                     |
-| Jun 14 | Gorlaeus building DM017PC     | Yufan Ge                   | K-theory of graph C\*-algebras                               |
-| Jun 21 | Gorlaeus building DM017PC     | Francesca Arici            | K-theory of Cuntz-Pimsner algebras                           |
+| Date   | Location             | Speaker                    | Title                                                        |
+| ------ | -------------------- | -------------------------- | ------------------------------------------------------------ |
+| Feb 15 | Gorlaeus  DM017PC    | Jack Ekenstam              | K-theory of C*-algebras 1                                    |
+| Feb 22 | Gorlaeus DM017PC     | Yuezhao Li                 | K-theory of C*-algebras 2                                    |
+| Mar 1  | **Gorlaeus DM009PC** | Jack Ekenstam              | Hilbert C\*-modules 1                                        |
+| Mar 8  | Gorlaeus DM017PC     | Jack Ekenstam, Yufan Ge    | Hilbert C\*-modules 2, Kasparov's picture of KK-theory 1     |
+| Mar 15 | ---                  | ---                        | **No talk**                                                  |
+| Mar 22 | Gorlaeus DM017PC     | Yufan Ge                   | Kasparov's picture of KK-theory 2                            |
+| Mar 29 | **Gorlaeus DM109**   | Yufan Ge                   | Cuntz's picture of KK-theory                                 |
+| Apr 5  | Gorlaeus DM017PC     | Yuezhao Li                 | Examples and properties of KK-theory                         |
+| Apr 12 | Gorlaeus DM017PC     | Bram Mesland               | The Kasparov product 1                                       |
+| Apr 19 | Gorlaeus  DM017PC    | Bram Mesland               | The Kasparov product 2                                       |
+| Apr 26 | ---                  | ---                        | **No talk**                                                  |
+| May 3  | Gorlaeus DM017PC     | Georg Huppertz             | Extension of C\*-algebras and KK-theory 1                    |
+| May 10 | Gorlaeus DM017PC     | Georg Huppertz, Yuezhao Li | Extension of C\*-algebras and KK-theory 2, Categorical aspect of KK-theory 1 |
+| May 17 | Gorlaeus DM017PC     | Yuezhao Li                 | Categorical aspect of KK-theory 2                            |
+| May 24 | Gorlaeus DM017PC     | Dimitris Gerontogiannis    | Finite summability in K-homology                             |
+| May 31 | ---                  | ---                        | **No talk** (due to [Noncommutative Geometry Along the North Sea 2022](https://www.lorentzcenter.nl/noncommutative-geometry-along-the-north-sea-2022.html)) |
+| Jun 7  | Gorlaeus DM017PC     | Mick Gielen                | E-theory                                                     |
+| Jun 14 | Gorlaeus DM017PC     | Yufan Ge                   | K-theory of graph C\*-algebras                               |
+| Jun 21 | Gorlaeus DM017PC     | Francesca Arici            | K-theory of Cuntz-Pimsner algebras                           |
 
 **Participants are warmly welcomed to give a talk. If you intend to do so, please contact Yuezhao Li. Everyone is invited to suggest topics as well.**
 
