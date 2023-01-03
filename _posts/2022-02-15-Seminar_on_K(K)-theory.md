@@ -13,13 +13,11 @@ In 2022 spring semester, we are running a reading seminar on K-theory and KK-the
 ## Organisers
 
 Bram Mesland, Jack Ekenstam, Yufan Ge and Yuezhao Li.
-
 If you are interested: please contact Yuezhao Li (y.li AT math.leidenuniv.nl).
 
 ## Date and Location
 
 **Tuesdays, 12.15-14.00, in Gorlaeus building**. We are in different rooms depending on the date, see the table below.
-
 The room is hard to find (you need to enter from Huygens building, go upstairs and walk along several corridors then go downstairs). But you may join us at Snellius common room at 12.00.
 
 ## Schedule
@@ -46,6 +44,7 @@ The room is hard to find (you need to enter from Huygens building, go upstairs a
 | Jun 14 | Gorlaeus DM017PC     | Yufan Ge                   | K-theory of graph C\*-algebras                               |
 | Jun 21 | Gorlaeus DM017PC     | Francesca Arici            | K-theory of Cuntz-Pimsner algebras                           |
 
-**Participants are warmly welcomed to give a talk. If you intend to do so, please contact Yuezhao Li. Everyone is invited to suggest topics as well.**
+
+Participants are warmly welcomed to give a talk. If you intend to do so, please contact Yuezhao Li. Everyone is invited to suggest topics as well.
 
 Notes of the talks are available [here](kk_note.pdf). Last modified: 25/06/2022.
