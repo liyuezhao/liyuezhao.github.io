@@ -18,7 +18,7 @@ baseurl: ''
 title: 'Yuezhao Li'
 description: 'Homepage'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "https://liyuezhao.github.io/pics/site_logo.jpg"
 
 # Pagination
 paginate: 5
