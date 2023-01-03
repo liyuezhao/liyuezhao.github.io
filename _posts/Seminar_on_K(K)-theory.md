@@ -1,0 +1,53 @@
+---
+layout: post
+title: Hello World
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
+# Reading Seminar on K(K)-Theory (Spring 2022)
+
+In 2022 spring semester, we are running a reading seminar on K-theory and KK-theory at Leiden university. In this seminar we will study some basic knowledge of KK-theory for C\*-algebras. We will start with a quick recap of the properties of K-theory, focusing on its formal properties like the Bott periodicity and Thom isomorphisms, which shall be more illuminating in the framework of KK-theory. Then we will provide the two basic pictures of KK-theory due to Kasparov and Cuntz. After that we shall study the formal properties of KK-theory, which are mostly due to the existence of the Kasparov product. Using the Kasparov product we may construct a category KK which is equipped with a triangulated structure, so various toolkits from homological algebra can be adapted to it. In the end, we shall discuss the unbounded picture of KK-theory, whose theory is developed rapidly in recent years and proved to be useful in the study of noncommutative differential geometry.
+
+**Prerequisites**. The participants should be familiar with basic theory of C\*-algebras. Knowledge on the K-theory of C\*-algebras is not assumed but suggested.
+
+## Organisers
+
+Bram Mesland, Jack Ekenstam, Yufan Ge and Yuezhao Li.
+
+If you are interested: please contact Yuezhao Li (y.li AT math.leidenuniv.nl).
+
+## Date and Location
+
+**Tuesdays, 12.15-14.00, in Gorlaeus building**. We are in different rooms depending on the date, see the table below.
+
+The room is hard to find (you need to enter from Huygens building, go upstairs and walk along several corridors then go downstairs). But you may join us at Snellius common room at 12.00.
+
+## Schedule
+
+| Date   | Location                      | Speaker                    | Title                                                        |
+| ------ | ----------------------------- | -------------------------- | ------------------------------------------------------------ |
+| Feb 15 | Gorlaeus building DM017PC     | Jack Ekenstam              | K-theory of C*-algebras 1                                    |
+| Feb 22 | Gorlaeus building DM017PC     | Yuezhao Li                 | K-theory of C*-algebras 2                                    |
+| Mar 1  | **Gorlaeus building DM009PC** | Jack Ekenstam              | Hilbert C\*-modules 1                                        |
+| Mar 8  | Gorlaeus building DM017PC     | Jack Ekenstam, Yufan Ge    | Hilbert C\*-modules 2, Kasparov's picture of KK-theory 1     |
+| Mar 15 | ---                           | ---                        | **No talk**                                                  |
+| Mar 22 | Gorlaeus building DM017PC     | Yufan Ge                   | Kasparov's picture of KK-theory 2                            |
+| Mar 29 | **Gorlaeus building DM109**   | Yufan Ge                   | Cuntz's picture of KK-theory                                 |
+| Apr 5  | Gorlaeus building DM017PC     | Yuezhao Li                 | Examples and properties of KK-theory                         |
+| Apr 12 | Gorlaeus building DM017PC     | Bram Mesland               | The Kasparov product 1                                       |
+| Apr 19 | Gorlaeus building DM017PC     | Bram Mesland               | The Kasparov product 2                                       |
+| Apr 26 | ---                           | ---                        | **No talk**                                                  |
+| May 3  | Gorlaeus building DM017PC     | Georg Huppertz             | Extension of C\*-algebras and KK-theory 1                    |
+| May 10 | Gorlaeus building DM017PC     | Georg Huppertz, Yuezhao Li | Extension of C\*-algebras and KK-theory 2, Categorical aspect of KK-theory 1 |
+| May 17 | Gorlaeus building DM017PC     | Yuezhao Li                 | Categorical aspect of KK-theory 2                            |
+| May 24 | Gorlaeus building DM017PC     | Dimitris Gerontogiannis    | Finite summability in K-homology                             |
+| May 31 | ---                           | ---                        | **No talk** (due to [Noncommutative Geometry Along the North Sea 2022](https://www.lorentzcenter.nl/noncommutative-geometry-along-the-north-sea-2022.html)) |
+| Jun 7  | Gorlaeus building DM017PC     | Mick Gielen                | E-theory                                                     |
+| Jun 14 | Gorlaeus building DM017PC     | Yufan Ge                   | K-theory of graph C\*-algebras                               |
+| Jun 21 | Gorlaeus building DM017PC     | Francesca Arici            | K-theory of Cuntz-Pimsner algebras                           |
+
+**Participants are warmly welcomed to give a talk. If you intend to do so, please contact Yuezhao Li. Everyone is invited to suggest topics as well.**
+
+Notes of the talks are available [here](kk_note.pdf). Last modified: 25/06/2022.
