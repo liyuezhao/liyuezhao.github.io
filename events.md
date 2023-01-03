@@ -10,4 +10,4 @@ title: Events
 ## Seminars
 
 - 2022 Fall: [Groupoid C\*-algebras](https://ncg-leiden.github.io/). Leiden NCG seminar. The principal organiser was my friend [Yufan Ge](https://sherlock3711.github.io/).
-- 2022 Spring: [K(K)-theory](https://liyuezhao.github.io/seminars/2022_KK-theory/). Leiden NCG seminar. The principal organiser was me.
+- 2022 Spring: [K(K)-theory](https://liyuezhao.github.io/seminars/2022/02/15/KK-theory). Leiden NCG seminar. The principal organiser was me.
