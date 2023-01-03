@@ -2,7 +2,7 @@
 layout: post
 title: Reading Seminar on K(K)-Theory (Spring 2022)
 categories:
-- General
+- Seminars
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
