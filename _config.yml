@@ -27,6 +27,6 @@ paginate_path: blog/page:num
 # Collections
 collections:
   posts:
-    title: Seminars
+    title: Yuezhao Li
     output: true
-    description: "Posts of seminars"
+    description: ""
