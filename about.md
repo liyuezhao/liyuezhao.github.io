@@ -12,6 +12,3 @@ From 2013 to 2018, I studied physics and mathematics at Peking University, China
 I work in the field of noncommutative geometry. Recently, I am focusing on the application of unbounded KK-theory in (noncommutative) differential geometry, following the school of Bram Mesland, Walter van Suijlekom, Jens Kaad, Simon Brain, Adam Rennie and many other mathematicians.
 
 Besides mathematics, I am also an enthusiastic runner.
-
-![Photo_SUB](https://liyuezhao.github.io/pics/Photo_SUB.jpg)
-A photo of me in front of Staats- und Universitäts- Bibliothek Göttingen.
