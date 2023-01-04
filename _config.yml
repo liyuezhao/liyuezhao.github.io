@@ -6,7 +6,6 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
-- google4450a20800ade014.html
 
 # Set plugins
 plugins:
