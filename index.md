@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+name: google-site-verification 
+content: mhEUvQsNZ6zmue1ZIT-cpJsPnWCI_u88OGG6xDL5-kA
 ---
 
 Welcome to Yuezhao Li's homepage.
