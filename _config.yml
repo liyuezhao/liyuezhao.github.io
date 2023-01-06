@@ -17,7 +17,7 @@ url: 'https://liyuezhao.github.io/'
 baseurl: ''
 title: 'Yuezhao Li'
 description: 'Homepage'
-permalink: pretty
+permalink: /:categories/:year/:title/
 logo: "https://liyuezhao.github.io/pics/site_logo.jpg"
 
 # Pagination
