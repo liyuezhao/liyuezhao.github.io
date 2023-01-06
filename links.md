@@ -6,6 +6,7 @@ title: Links
 ## Research
 
 - [Leiden Noncommutative Geometry Seminar](https://ncg-leiden.github.io/). A reading seminar organised by the NCG research group at Mathematical Institute, Leiden University.
+- [Arxiv/math.OA](https://arxiv.org/list/math.OA/recent) and [Arxiv/math.KT](https://arxiv.org/list/math.KT/recent).
 
 ## People
 
