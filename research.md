@@ -7,7 +7,7 @@ title: Research
 
 - Unbounded KK-theory and (noncommutative) differential geometry
 - KK-theory and (noncommutative) index theory
-- Mathematics of topological quantum systems
+- Mathematics of topological insulators
 
 ## Notes
 
