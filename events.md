@@ -7,7 +7,7 @@ title: Events
 
 - Francesca Arici, Marcel de Jeu, Rachid El Harti, Dimitris Gerontogiannis and I organised the [5th Conference of Settat on Operator Algebras and Applications](https://sites.google.com/view/icsoaa-2023/home), which was held from 9-13 January 2023 in Marrakech, Morocco.
 
-## Seminars
+## Reading seminars
 
 - 2023 Spring: [Harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html). Leiden Functional Analysis seminar.
 - 2022 Fall: [Groupoid C\*-algebras](https://ncg-leiden.github.io/). Leiden NCG seminar. The principal organiser was my friend [Yufan Ge](https://sherlock3711.github.io/).
