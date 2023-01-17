@@ -1,4 +1,7 @@
-# About
+---
+layout: page
+title: About
+---
 
 Welcome to Yuezhao Li's homepage.
 
