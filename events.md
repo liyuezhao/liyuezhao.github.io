@@ -7,13 +7,6 @@ title: Events
 
 - Francesca Arici, Marcel de Jeu, Rachid El Harti, Dimitris Gerontogiannis and I organised the [5th Conference of Settat on Operator Algebras and Applications](https://sites.google.com/view/icsoaa-2023/home), which was held from 9-13 January 2023 in Marrakech, Morocco.
 
-## Teaching
-
-- 2023 Spring: Teaching assistant of Leiden undergraduate course "Differentiable Manifolds II".
-- 2022 Fall: Teaching assistant of Dutch national Mastermath course "Functional Analysis".
-- 2022 Spring: Teaching assistant of Leiden undergraduate course "Differentiable Manifolds II".
-- 2021 Fall: Teaching assistant of Dutch national Mastermath course "Functional Analysis".
-
 ## Seminars
 
 - 2023 Spring: [Harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html). Leiden functional analysis seminar.
