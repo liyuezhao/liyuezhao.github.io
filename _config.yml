@@ -28,11 +28,11 @@ paginate_path: blog/page:num
 collections:
   pages:
     order:
-      - index
-      - research
-      - teaching
-      - events
-      - links
+      - About
+      - Research
+      - Teaching
+      - Events
+      - Links
   posts:
     title: Posts
     output: true
