@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+order: 3
 ---
 
 ## Conferences and workshops
