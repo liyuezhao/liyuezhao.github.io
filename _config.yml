@@ -26,13 +26,6 @@ paginate_path: blog/page:num
 
 # Collections
 collections:
-  pages:
-    order:
-	  - index.md
-	  - research.md
-	  - teaching.md
-	  - events.md
-	  - links.md
   posts:
     title: Posts
     output: true
