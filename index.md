@@ -16,5 +16,5 @@ Besides mathematics, I am also an enthusiastic runner.
 
 ### 2023 Spring
 
-- I will be the teaching assistant of Leiden undergraduate course “Differentiable Manifolds II” together with Anton van Es. 
+- I will be a teaching assistant of Leiden undergraduate course “Differentiable Manifolds II”, together with Anton van Es. 
 - I will join the Leiden Functional Analysis seminar on [Harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html), organised by Marcel de Jeu, Bram Mesland and Onno van Gaans.
