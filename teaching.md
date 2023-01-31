@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-navnum: 3
 ---
 
 ## Courses

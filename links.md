@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Links
-navnum: 5
 ---
 
 ## Research

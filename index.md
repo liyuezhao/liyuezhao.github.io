@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-navnum:1
 ---
 
 Welcome to Yuezhao Li's homepage.
