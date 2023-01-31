@@ -27,12 +27,7 @@ paginate_path: blog/page:num
 # Collections
 collections:
   pages:
-    order:
-      - index.md
-      - research.md
-      - teaching.md
-      - events.md
-      - links.md
+    sorted_by: navnum
   posts:
     title: Posts
     output: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+navnum: 2
 ---
 
 ## Research interest

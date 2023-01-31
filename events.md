@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+navnum: 4
 ---
 
 ## Conferences and workshops
