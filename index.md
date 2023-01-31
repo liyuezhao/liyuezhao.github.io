@@ -13,3 +13,8 @@ From 2013 to 2018, I studied physics and mathematics at Peking University, China
 I work in the field of noncommutative geometry. Recently, I am focusing on the application of unbounded KK-theory in (noncommutative) differential geometry and index theory, following the school of Bram Mesland, Walter van Suijlekom, Jens Kaad, Simon Brain, Adam Rennie and many other mathematicians.
 
 Besides mathematics, I am also an enthusiastic runner.
+
+### 2023 Spring
+
+- I will be the teaching assistant of Leiden undergraduate course “Differentiable Manifolds II” together with Anton van Es. 
+- I will join the Leiden Functional Analysis seminar on [Harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html), organised by Marcel de Jeu, Bram Mesland and Onno van Gaans.
