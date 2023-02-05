@@ -4,6 +4,9 @@ title: Links
 order: 4
 ---
 
+## About me
+- My [ResearchGate](https://www.researchgate.net/profile/Yuezhao_Li2).
+
 ## Research
 
 - [Leiden Noncommutative Geometry Seminar](https://ncg-leiden.github.io/). A reading seminar organised by the NCG research group at Mathematical Institute, Leiden University.
