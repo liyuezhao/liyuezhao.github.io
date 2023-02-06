@@ -11,6 +11,7 @@ exclude:
 plugins:
 - jekyll-paginate
 - jekyll-remote-theme
+- jekyll-sitemap
 
 # Site settings
 url: 'https://liyuezhao.github.io/'
