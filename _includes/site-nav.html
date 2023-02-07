@@ -2,7 +2,7 @@
   <ul class="list list--nav">
     {% assign sorted_pages = site.pages | sort:"order" %}
     {% for item in sorted_pages %}
-      {% unless item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url contains "/feed." or item.url contains "sitemap.xml" or item.url contains "robot.txt" %}
+      {% unless item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url contains "/feed." or item.url contains "sitemap.xml" or item.url contains "robots.txt" %}
         <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
           {% if item.collectionpage %}
             {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
