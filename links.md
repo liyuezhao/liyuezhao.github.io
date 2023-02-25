@@ -5,7 +5,7 @@ order: 4
 ---
 
 ## About me
-- My [ResearchGate](https://www.researchgate.net/profile/Yuezhao_Li2) and my [LinkedIn](https://www.linkedin.com/in/yuezhao-li-math/).
+- My [ResearchGate](https://www.researchgate.net/profile/Yuezhao_Li2) and my [LinkedIn](https://www.linkedin.com/in/y-li-math/).
 
 ## Research
 
