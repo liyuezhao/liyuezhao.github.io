@@ -16,6 +16,6 @@ Besides mathematics, I am also an enthusiastic runner.
 
 ## 2023 Spring
 
-- I am a teaching assistant of [differentiable manifolds II](https://studiegids.universiteitleiden.nl/en/courses/115406/differentiable-manifolds-2-bm), together with Anton van Es. 
-- I join a seminar on [harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html) on Friday afternoons, organised by Marcel de Jeu, Bram Mesland and Onno van Gaans.
-- I join a seminar on [higher index theory](http://www.waltervansuijlekom.nl/research/ncgseminar/) on Wednesday afternoons in Nijmegen, organised by Walter van Suijlekom and Peter Hochs.
+- I am a teaching assistant of [Differentiable manifolds II](https://studiegids.universiteitleiden.nl/en/courses/115406/differentiable-manifolds-2-bm), together with Anton van Es. 
+- I join a seminar on [Harmonic analysis](https://www.math.leidenuniv.nl/~jeumfede/fasem_2023.html) on Friday afternoons, organised by Marcel de Jeu, Bram Mesland and Onno van Gaans.
+- I join a seminar on [Higher index theory](http://www.waltervansuijlekom.nl/research/ncgseminar/) on Wednesday afternoons in Nijmegen, organised by Walter van Suijlekom and Peter Hochs.
