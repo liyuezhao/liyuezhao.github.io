@@ -17,4 +17,4 @@ order: 4
 ## People
 
 - My friend [Yufan Ge](https://sherlock3711.github.io/).
-- My friend [Yi Shan](https://www.eleves.ens.fr/home/yshan/Home.html).
+- My friend [Yi Shan](https://www.math.ens.psl.eu/~yshan/index.html).
