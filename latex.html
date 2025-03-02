@@ -71,21 +71,24 @@ SOFTWARE.
 <p>I use <a href="https://www.tug.org/texlive/">TeX Live</a> as my LaTeX
 distribution. This is a fairly comprehensive one, consequently
 overwhelming. But I am not yet motivated to change to a smaller one.</p>
-<p>Installing TeX Live on Fedora 41 has some subtle issues. One should
-rather prepend /usr/local/texlive/YYYY/bin/PLATFORM to PATH, but not
-append it. Otherwise a pre-existing binary program pdftex in /usr/bin
-will be found first. This leads to various errors.</p>
+<p>Installing TeX Live on Fedora 41 has some subtle issues. It seems
+that one should prepend</p>
+<pre><code>/usr/local/texlive/YYYY/bin/PLATFORM</code></pre>
+<p>to PATH, rather than append it. Otherwise a pre-existing binary
+program pdftex in /usr/bin will be found first. This leads to various
+errors.</p>
 <h2 id="editor">Editor</h2>
 <p>Currently I am using a combination Vim 9.1 + <a
 href="https://github.com/lervag/vimtex">VimTeX</a> + <a
 href="https://github.com/SirVer/ultisnips">UltiSnips</a> as my editor. I
 learnt this from the excellent blogs written by <a
 href="https://castel.dev/">Gilles Castel</a>. Quite regrettably, I will
-never be able to talk to him in person. Another excellent guide by <a
-href="https://ejmastnak.com/">Elijan Mastnak</a> is <a
-href="https://ejmastnak.com/tutorials/vim-latex/intro/">here</a>.</p>
-<p>It is well-known that Vim has a rather slope learning curve, which I
-completely agree. I get acquainted with it after reading <a
+never be able to talk to him in person. <a
+href="https://ejmastnak.com/">Elijan Mastnak</a> has another excellent
+<a href="https://ejmastnak.com/tutorials/vim-latex/intro/">guide</a> for
+efficiently writing math in LaTeX.</p>
+<p>It is well-known that Vim has a rather slope learning curve. I get
+acquainted with it after reading <a
 href="https://www.amazon.nl/-/en/Drew-Neil/dp/1680501275">a wonderful
 book</a> by <a href="http://drewneil.com/">Drew Neils</a>.</p>
 <p>UltiSnips is also quite practical. Also I ought to be honest about
